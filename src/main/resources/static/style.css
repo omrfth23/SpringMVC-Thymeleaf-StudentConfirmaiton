@@ -1,0 +1,14 @@
+.registrationForm {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.header{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
